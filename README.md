@@ -1,2 +1,2 @@
 # Web-site-Demo
-with Javascript Project from net
+with Html Project from net
